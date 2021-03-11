@@ -1,8 +1,8 @@
 function main(){
     
 var myDecimal = 6.9;
-var myDecimalE = 312e-5;
-parseFloat(myDecimalE).toExponential
+var myDecimalE = 254e-5;
+
     
     
     

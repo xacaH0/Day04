@@ -1,9 +1,7 @@
 function main(numOne, numTwo) {
 
     var myQuotient = numOne / numTwo;
-    parseFloat(numOne);
-    parseFloat(numTwo);
-    parseFloat(myQuotient);
+ 
         
         
         
